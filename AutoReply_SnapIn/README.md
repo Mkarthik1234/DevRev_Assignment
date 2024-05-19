@@ -10,7 +10,7 @@ input.
 * run  `npm install @devrev/typescript-sdk`
 
 ### Problem Logic 
-* open 
+* open https://github.com/Mkarthik1234/DevRev_Assignment/blob/master/AutoReply_SnapIn/code/src/functions/function_1/index.ts
 
 ### Packaging the code
 Once you are done with the testing,
@@ -46,7 +46,7 @@ devrev snap_in draft |jq
 ```
 devrev snap_in_package logs --after "2024-05-19T00:00:00Z" | jq
 ```
-* For sample log open 
+* For sample log open https://github.com/Mkarthik1234/DevRev_Assignment/blob/master/AutoReply_SnapIn/logfile.json
 
 ### Upgrade Snap In version
 * Run
