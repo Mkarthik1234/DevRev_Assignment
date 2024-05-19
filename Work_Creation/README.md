@@ -10,8 +10,8 @@ Work can be either issue or ticket
 
 ### update main.py
 * Replace
-  * DOI = "<YOUR ID>"
-  * 'Authorization': '<YOUR PAT>'
+  * `DOI = "<YOUR ID>"`
+  * `'Authorization': '<YOUR PAT>'`
 
 
 ### Running file 
