@@ -9,20 +9,7 @@ Work can be either issue or ticket
 * generate Personal Access Token(PAT) settings > Account > Personal Access Token > new Token
 
 ### update main.py
-* Replace
-  * `DOI = "<YOUR ID>"`
-  * `'Authorization': '<YOUR PAT>'`
 
-
-### Running file 
-* Run
-```
-python main.py
-```
-or 
-```
-python3 main.py
-```
   
   
 
