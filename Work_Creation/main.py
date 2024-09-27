@@ -7,7 +7,7 @@ DOI = "<YOUR ID>"
 workurl = 'https://api.devrev.ai/works.create'
 
 workheaders = {
-    'Authorization': '<YOUR PAT>'
+    'Authorization': '<YOUR PAT here>'
     "Content-Type": "application/json"
 }
 
