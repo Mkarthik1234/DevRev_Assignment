@@ -7,7 +7,7 @@ DOI = "<YOUR ID>"
 workurl = 'https://api.devrev.ai/works.create'
 
 workheaders = {
-    'Authorization': '<YOUR PAT>'
+    'Authorization': '<YOUR PAT here>'
     "Content-Type": "application/json"
 }
 
@@ -63,7 +63,8 @@ if response.status_code == 200:
             else:
                 print(response.status_code)
         else:
-            print("No parts found")
+            print("No parts found now")
+            
             
 else:
     print(f"Failed to retrieve parts data Status code: {response.status_code}")
